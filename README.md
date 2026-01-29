@@ -1,16 +1,13 @@
-## Hi there 👋
+## Mohamed Jawad Touir
 
-<!--
-**JINZO-AI/JINZO-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Big Data Student @ EPI (Grad 2027)** • **Machine Learning / AI Engineer (In Training)**
 
-Here are some ideas to get you started:
+- 🔭 Building a project-based portfolio across data, analytics, and ML.
+- 🌱 Studying Data Science foundations (Python, analysis, visualization).
+- 🎯 Next focus: applied ML/AI projects on real datasets, from data preparation to a working demo.
+- 🤝 Open to collaborating on beginner-friendly data/ML projects.
+- 📫 LinkedIn: https://www.linkedin.com/in/mohamedjawadtouir/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- 🍣 Sushiman (Landing Page): [https://github.com/<your-username>/sushi](https://github.com/JINZO-AI/sushi)
+- 🎬 JMAX Streaming Website: [https://github.com/<your-username>/JMAX-Streaming-Website](https://github.com/JINZO-AI/JMAX-Streaming-Website)
