@@ -1,6 +1,6 @@
 ## Mohamed Jawad Touir
 
-**Big Data Student @ EPI • **Machine Learning / AI Engineer (In Training)**
+**Big Data Student** @ EPI • **Machine Learning / AI Engineer (In Training)**
 
 - 🔭 Building a project-based portfolio across data, analytics, and ML.
 - 🌱 Studying Data Science foundations (Python, analysis, visualization).
