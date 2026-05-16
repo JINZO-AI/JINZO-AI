@@ -127,8 +127,7 @@ Live data visualizations and AI-generated insights on demand. Stack: Flask + Gro
 ## ◈ &nbsp;GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINZO-AI&show_icons=true&theme=transparent&hide_border=true&title_color=00FFD1&icon_color=00FFD1&text_color=aaffee&bg_color=0d0d0d" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINZO-AI&layout=compact&theme=transparent&hide_border=true&title_color=00FFD1&text_color=aaffee&bg_color=0d0d0d" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JINZO-AI&bg_color=0d0d0d&color=00FFD1&line=00FFD1&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
