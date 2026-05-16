@@ -19,25 +19,24 @@
 <br/>
 
 ---
-
 ## ◈ &nbsp;Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 prometheus_ai
-**AI agent platform** — runs locally, zero cost.
-Executes code, runs research, and generates agents automatically. Powered by Groq Llama 3.3 70B + Flask.
+### 🏛️ AGORA
+**Multi-agent deliberation engine** — structured AI debate at scale.
+Coordinated agents argue, critique, and converge on decisions. Stack: Angular, TypeScript & Supabase.
 
-→ **[View project](https://github.com/JINZO-AI/prometheus_ai)**
+→ **[View project](https://github.com/JINZO-AI/AGORA)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ AgentGuard
-**AI compliance framework** — built for the real regulatory world.
-Audit trail system covering EU AI Act, HIPAA & SOX. Monitors and validates AI agent behavior.
+**AI compliance & audit framework** — built for the real regulatory world.
+Monitors and validates AI agent behavior with a full audit trail. Covers EU AI Act, HIPAA & SOX.
 
 → **[View project](https://github.com/JINZO-AI/AgentGuard)**
 
@@ -46,25 +45,44 @@ Audit trail system covering EU AI Act, HIPAA & SOX. Monitors and validates AI ag
 <tr>
 <td width="50%" valign="top">
 
-### 📊 nexus-bi
-**AI-powered BI dashboard** — business intelligence, automated.
-Live data visualizations and AI-generated insights. Stack: Flask + Groq + Chart.js.
+### 🔴 prometheus_ai
+**Local AI agent platform** — production-grade, zero cost to run.
+Executes code, drives research workflows, and auto-generates agents from one UI. Powered by Groq Llama 3.3 70B + Flask.
 
-→ **[View project](https://github.com/JINZO-AI/nexus-bi)**
+→ **[View project](https://github.com/JINZO-AI/prometheus_ai)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 study-mission-control
-**Academic forecasting app** — full stack, production grade.
-Tracks study goals and predicts outcomes. React frontend, FastAPI backend.
+### 📂 dataflow
+**AI data freelance console** — from messy CSVs to client-ready insights.
+Cleans datasets, mines patterns, and auto-drafts scope documents & client messages. Stack: FastAPI + Groq.
 
-→ **[View project](https://github.com/JINZO-AI/study-mission-control)**
+→ **[View project](https://github.com/JINZO-AI/dataflow)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 applyai
+**AI job application toolkit** — cover letters, resume bullets & LinkedIn bios.
+Generates tailored application content in seconds. Built as a full Node.js app with a clean UI.
+
+→ **[View project](https://github.com/JINZO-AI/applyai)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 nexus-bi
+**AI-powered BI dashboard** — business intelligence, automated.
+Live data visualizations and AI-generated insights on demand. Stack: Flask + Groq + Chart.js.
+
+→ **[View project](https://github.com/JINZO-AI/nexus-bi)**
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## ◈ &nbsp;Tech Stack
