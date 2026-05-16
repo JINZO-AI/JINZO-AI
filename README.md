@@ -1,13 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a3d62,100:00FFD1&height=220&section=header&text=JINZO-AI&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building%20things%20worth%20shipping.&descSize=18&descAlignY=65&descColor=aaffee" />
 
 <h3 align="center">Mohamed Jawad Touir</h3>
-<p align="center">Big Data Student @ EPI &nbsp;·&nbsp; Sousse, Tunisia</p>
+<p align="center">Big Data & AI Student @ EPI &nbsp;·&nbsp; Sousse, Tunisia</p>
 
 <p align="center">
   Early in the journey — but building with intention from day one<br/>
-  Shipping real projects across AI agents, forecasting, and data dashboards<br/>
-  Drawn to LLMs, predictive systems, and what comes after<br/>
+  Shipping real projects across AI agents, data systems, and intelligent tooling<br/>
+  Drawn to LLMs, multi-agent architectures, and predictive systems<br/>
   Training to become the kind of engineer who builds AI that actually matters
+</p>
+
+<p align="center">
+  <b>→ Open to internships in AI engineering & data science roles</b>
 </p>
 
 <p align="center">
@@ -19,6 +23,7 @@
 <br/>
 
 ---
+
 ## ◈ &nbsp;Selected Work
 
 <table>
@@ -83,6 +88,7 @@ Live data visualizations and AI-generated insights on demand. Stack: Flask + Gro
 </td>
 </tr>
 </table>
+
 ---
 
 ## ◈ &nbsp;Tech Stack
@@ -93,15 +99,15 @@ Live data visualizations and AI-generated insights on demand. Stack: Flask + Gro
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FFD1" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FFD1" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FFD1" />
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logo=groq&logoColor=00FFD1" />
   <img src="https://img.shields.io/badge/Chart.js-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=00FFD1" />
@@ -110,10 +116,19 @@ Live data visualizations and AI-generated insights on demand. Stack: Flask + Gro
 **In progress**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627" />
   <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627" />
+</p>
+
+---
+
+## ◈ &nbsp;GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JINZO-AI&show_icons=true&theme=transparent&hide_border=true&title_color=00FFD1&icon_color=00FFD1&text_color=aaffee&bg_color=0d0d0d" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINZO-AI&layout=compact&theme=transparent&hide_border=true&title_color=00FFD1&text_color=aaffee&bg_color=0d0d0d" height="160" />
 </p>
 
 ---
